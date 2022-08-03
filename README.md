@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">Divyadarshan.devv</a>
+  <a href="https://divyadarshan.netlify.app/" target="_blank">Divyadarshan.devv</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -13,8 +13,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/divyasoniworld/myportfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/divyasoniworld/myportfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
@@ -27,11 +27,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/divyasoniworld/myportfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [divyasoniworld](https://github.com/divyasoniworld/myportfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://divyadarshan.netlify.app/" target="_blank">Divyadarshan</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
