@@ -20,22 +20,6 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 My personal portfolio <a href="https://divyadarshan.netlify.app/" target="_blank">Divyadarshan Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Next.js
-- CSS3
-- VsCode
-
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
 ## Getting Started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
