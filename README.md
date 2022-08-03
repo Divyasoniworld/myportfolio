@@ -2,11 +2,18 @@
   Portfolio Website - v1.0<br/>
   <a href="https://divyadarshan.netlify.app/" target="_blank">Divyadarshan.devv</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
+
+<center>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/divyasoniworld/myportfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/divyasoniworld/myportfolio?color=red&logo=github&style=for-the-badge)
+
+</center>
 
 <h3 align="center">
     🔹
